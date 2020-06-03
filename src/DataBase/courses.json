@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "name": "Primero A",
+        "description": "Primer grado, curso A"
+    },
+    {
+        "id": 2,
+        "name": "Segundo A",
+        "description": "Segundo grado, Curso A"
+    },
+    {
+        "id": 3,
+        "name": "Tercero A",
+        "description": "Tercer grado, Curso A"
+    },
+    {
+        "id": 4,
+        "name": "Primero B",
+        "description": "Primer grado, Curso B"
+    },
+    {
+        "id": 5,
+        "name": "Segundo B",
+        "description": "Segundo grado, Curso B"
+    },
+    {
+        "id": 6,
+        "name": "Tercero B",
+        "description": "Tercer grado, Curso B"
+    }
+]
