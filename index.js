@@ -270,10 +270,11 @@ const RootMutationType = new GraphQLObjectType({
                         students.splice(index, 1)
                         return students;
                     } else {
-                        throw new Error('')
+                        throw new Error('no exist ')
                     }
                 } else {
-                    throw new Error('')
+                    throw new Error('do not exist a grade whit that id')
+
                 }
             }
 
